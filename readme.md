@@ -1,9 +1,5 @@
-# 🧩 Jquery Practices
+<h2 id="jquery"> 🌙 Jquery Practices </h2>
 A repository for storing practical jQuery exercises aimed at enhancing my skills and understanding of the library. This includes examples of DOM manipulation, animations, event handling, and AJAX to build dynamic and responsive interactions.
-
-<p align="center">
-    <img src="./.github/logo.png" width="200px">
-</p>
 
 <div>
 
@@ -11,7 +7,7 @@ A repository for storing practical jQuery exercises aimed at enhancing my skills
 [DOM_MANIPULATION_BADGE]: https://img.shields.io/badge/DOM_Manipulation-000?style=for-the-badge&logo=html5
 [ANIMATIONS_BADGE]: https://img.shields.io/badge/Animations-000?style=for-the-badge&logo=css3
 [EVENT_HANDLING_BADGE]: https://img.shields.io/badge/Event_Handling-000?style=for-the-badge&logo=jquery
-[AJAX_BADGE]: https://img.shields.io/badge/AJAX-000?style=for-the-badge&logo=ajax
+[AJAX_BADGE]: https://img.shields.io/badge/AJAX-000?style=for-the-badge&logo=ajax&logo=jquery
 
 [![jQuery Practices][JQUERY_PRACTICES_BADGE]](./README.md)
 [![DOM Manipulation][DOM_MANIPULATION_BADGE]](./examples/dom-manipulation.md)
@@ -21,7 +17,7 @@ A repository for storing practical jQuery exercises aimed at enhancing my skills
 
 </div>
 
-<h2 id="contribute">🚀 Purpose </h2>
+<h2 id="purpose">🚀 Purpose </h2>
 The goal of this repository is to deepen my knowledge of jQuery by exploring its key features and applying them in practical examples.
 
 ### By: Andreas Yuji Fujiki
