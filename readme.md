@@ -1,14 +1,14 @@
 <h2 id="jquery"> 🌙 Jquery Practices </h2>
 A repository for storing practical jQuery exercises aimed at enhancing my skills and understanding of the library. This includes examples of DOM manipulation, animations, event handling, and AJAX to build dynamic and responsive interactions.
 
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
+<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 <div>
 
 [JQUERY_PRACTICES_BADGE]: https://img.shields.io/badge/Jquery_Practices-000?style=for-the-badge&logo=jquery
 [DOM_MANIPULATION_BADGE]: https://img.shields.io/badge/DOM_Manipulation-000?style=for-the-badge&logo=html5
 [ANIMATIONS_BADGE]: https://img.shields.io/badge/Animations-000?style=for-the-badge&logo=css3
 [EVENT_HANDLING_BADGE]: https://img.shields.io/badge/Event_Handling-000?style=for-the-badge&logo=jquery
-[AJAX_BADGE]: https://img.shields.io/badge/AJAX-000?style=for-the-badge&logo=ajax&logo=jquery
+[AJAX_BADGE]: https://img.shields.io/badge/AJAX-000?style=for-the-badge&logo=jquery&logoColor=white
 
 [![jQuery Practices][JQUERY_PRACTICES_BADGE]](./README.md)
 [![DOM Manipulation][DOM_MANIPULATION_BADGE]](./examples/dom-manipulation.md)
