@@ -1,3 +1,15 @@
+const body = document.body
+
+body.innerHTML = `
+      <div>
+        <h1>
+          Hello, World! Hello, JQuery!
+        </h1>
+        <button id="main-btn">
+          Click Me!
+        </button>
+      </div>
+`
 import $ from 'jquery'
 
 $('body').css({
