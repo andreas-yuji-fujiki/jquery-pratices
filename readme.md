@@ -29,4 +29,5 @@ The goal of this repository is to deepen my knowledge of jQuery by exploring its
 - [LinkedIn](www.linkedin.com/in/andreas-yuji-fujiki-a08633321)
 
 <h2 id="license">License 📃 </h2>
+
 This project is under the [MIT](./LICENSE) license.
