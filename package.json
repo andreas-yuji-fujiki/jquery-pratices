@@ -1,0 +1,29 @@
+{
+  "name": "jquery-pratices",
+  "version": "1.0.0",
+  "description": "My JQuery pratices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreas-yuji-fujiki/jquery-pratices.git"
+  },
+  "keywords": [
+    "jquery",
+    "ajax",
+    "animations",
+    "event-handling",
+    "dom-manipulation"
+  ],
+  "author": "Andreas Yuji Fujiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreas-yuji-fujiki/jquery-pratices/issues"
+  },
+  "homepage": "https://github.com/andreas-yuji-fujiki/jquery-pratices#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
