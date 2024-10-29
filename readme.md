@@ -1,4 +1,4 @@
-<h2 id="jquery"> 🌙 Jquery Practices </h2>
+<h2 id="jquery"> 🌙 JQuery Practices </h2>
 A repository for storing practical jQuery exercises aimed at enhancing my skills and understanding of the library. This includes examples of DOM manipulation, animations, event handling, and AJAX to build dynamic and responsive interactions.
 
 <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
