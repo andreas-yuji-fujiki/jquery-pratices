@@ -2,7 +2,6 @@
 A repository for storing practical jQuery exercises aimed at enhancing my skills and understanding of the library. This includes examples of DOM manipulation, animations, event handling, and AJAX to build dynamic and responsive interactions.
 
 <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
-<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>
 <div>
 
 [JQUERY_PRACTICES_BADGE]: https://img.shields.io/badge/Jquery_Practices-000?style=for-the-badge&logo=jquery
