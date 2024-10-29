@@ -27,4 +27,4 @@ This project is under the [MIT](./LICENSE) license.
 
 <h3 id="copyright">🧑‍💻 By Andreas Yuji Fujiki</h3>
 
-> [Portfolio](https://andreas-yuji-fujiki.github.io/portfolio) -- [GitHub](https://github.com/andreas-yuji-fujiki) -- [LinkedIn](www.linkedin.com/in/andreas-yuji-fujiki-a08633321)
+> [Portfolio](https://andreas-yuji-fujiki.github.io/portfolio) > [GitHub](https://github.com/andreas-yuji-fujiki) > [LinkedIn](www.linkedin.com/in/andreas-yuji-fujiki-a08633321)
