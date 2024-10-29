@@ -1,19 +1,9 @@
-# Jquery Practices
+# 🧩 Jquery Practices
 A repository for storing practical jQuery exercises aimed at enhancing my skills and understanding of the library. This includes examples of DOM manipulation, animations, event handling, and AJAX to build dynamic and responsive interactions.
 
 <p align="center">
     <img src="./.github/logo.png" width="200px">
 </p>
-
-<p align="center">
-<b>This repository provides a series of README templates to help developers document their projects 🚀👩‍💻</b>
-</p>
-
-_Read this in other languages:_
-[_Português_](./translations/README-ptBR.md),
-<!-- [_Español_](README.es-ES.md), -->
-
-<h2 id="templates">📝 Templates</h2>
 
 <div>
 
